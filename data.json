@@ -1,0 +1,146 @@
+{
+  "atualizado": "17/11/2026 15:00",
+  "fonte": "Respostas: Microsoft Forms (CPA). Matrículas ativas: Gennera.",
+  "turmas": [
+    {
+      "curso": "Direito",
+      "turma": "1A",
+      "aplicacao": "18/11",
+      "respostas": 3,
+      "matriculados": 9
+    },
+    {
+      "curso": "Direito",
+      "turma": "2A",
+      "aplicacao": "18/11",
+      "respostas": 0,
+      "matriculados": 31
+    },
+    {
+      "curso": "Direito",
+      "turma": "2B",
+      "aplicacao": "18/11",
+      "respostas": 3,
+      "matriculados": 30
+    },
+    {
+      "curso": "Direito",
+      "turma": "2D",
+      "aplicacao": "18/11",
+      "respostas": 1,
+      "matriculados": 23
+    },
+    {
+      "curso": "Direito",
+      "turma": "3A",
+      "aplicacao": "18/11",
+      "respostas": 0,
+      "matriculados": 12
+    },
+    {
+      "curso": "Direito",
+      "turma": "4A",
+      "aplicacao": "18/11",
+      "respostas": 3,
+      "matriculados": 36
+    },
+    {
+      "curso": "Direito",
+      "turma": "6A",
+      "aplicacao": "18/11",
+      "respostas": 3,
+      "matriculados": 30
+    },
+    {
+      "curso": "Direito",
+      "turma": "6B",
+      "aplicacao": "18/11",
+      "respostas": 0,
+      "matriculados": 32
+    },
+    {
+      "curso": "Direito",
+      "turma": "7D",
+      "aplicacao": "18/11",
+      "respostas": 0,
+      "matriculados": 22
+    },
+    {
+      "curso": "Direito",
+      "turma": "8A",
+      "aplicacao": "18/11",
+      "respostas": 1,
+      "matriculados": 24
+    },
+    {
+      "curso": "Direito",
+      "turma": "8B",
+      "aplicacao": "18/11",
+      "respostas": 2,
+      "matriculados": 22
+    },
+    {
+      "curso": "Direito",
+      "turma": "9D",
+      "aplicacao": "18/11",
+      "respostas": 1,
+      "matriculados": 12
+    },
+    {
+      "curso": "Direito",
+      "turma": "10A",
+      "aplicacao": "18/11",
+      "respostas": 1,
+      "matriculados": 3
+    },
+    {
+      "curso": "Direito",
+      "turma": "10D",
+      "aplicacao": "18/11",
+      "respostas": 0,
+      "matriculados": 73
+    },
+    {
+      "curso": "ADS",
+      "turma": "1º período",
+      "aplicacao": "17/11",
+      "respostas": 1,
+      "matriculados": 15
+    },
+    {
+      "curso": "ADS",
+      "turma": "2º período",
+      "aplicacao": "17/11",
+      "respostas": 0,
+      "matriculados": 25
+    },
+    {
+      "curso": "ADS",
+      "turma": "3º e 4º períodos",
+      "aplicacao": "17/11",
+      "respostas": 2,
+      "matriculados": 62
+    },
+    {
+      "curso": "Administração",
+      "turma": "1º período",
+      "aplicacao": "17/11",
+      "respostas": 0,
+      "matriculados": null
+    },
+    {
+      "curso": "Administração",
+      "turma": "4º período",
+      "aplicacao": "17/11",
+      "respostas": 0,
+      "matriculados": 9
+    },
+    {
+      "curso": "Administração",
+      "turma": "8º período",
+      "aplicacao": "17/11",
+      "respostas": 0,
+      "matriculados": 13
+    }
+  ]
+}
