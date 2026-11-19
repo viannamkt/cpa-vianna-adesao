@@ -1,5 +1,5 @@
 {
-  "atualizado": "19/11/2026 10:11",
+  "atualizado": "19/11/2026 11:10",
   "fonte": "Respostas: Microsoft Forms (CPA). Matrículas ativas: Gennera.",
   "turmas": [
     {
@@ -20,7 +20,7 @@
       "curso": "Direito",
       "turma": "2B",
       "aplicacao": "18/11",
-      "respostas": 20,
+      "respostas": 22,
       "matriculados": 30
     },
     {
@@ -41,7 +41,7 @@
       "curso": "Direito",
       "turma": "4A",
       "aplicacao": "18/11",
-      "respostas": 15,
+      "respostas": 17,
       "matriculados": 36
     },
     {
@@ -55,7 +55,7 @@
       "curso": "Direito",
       "turma": "6B",
       "aplicacao": "18/11",
-      "respostas": 15,
+      "respostas": 17,
       "matriculados": 32
     },
     {
@@ -69,7 +69,7 @@
       "curso": "Direito",
       "turma": "8A",
       "aplicacao": "18/11",
-      "respostas": 13,
+      "respostas": 15,
       "matriculados": 24
     },
     {
@@ -83,14 +83,14 @@
       "curso": "Direito",
       "turma": "9D",
       "aplicacao": "18/11",
-      "respostas": 2,
+      "respostas": 3,
       "matriculados": 12
     },
     {
       "curso": "Direito",
       "turma": "10A",
       "aplicacao": "18/11",
-      "respostas": 11,
+      "respostas": 12,
       "matriculados": 45
     },
     {
@@ -139,7 +139,7 @@
       "curso": "Administração",
       "turma": "8º período",
       "aplicacao": "17/11",
-      "respostas": 3,
+      "respostas": 4,
       "matriculados": 13
     }
   ]
