@@ -1,5 +1,5 @@
 {
-  "atualizado": "19/11/2026 11:10",
+  "atualizado": "19/11/2026 12:10",
   "fonte": "Respostas: Microsoft Forms (CPA). Matrículas ativas: Gennera.",
   "turmas": [
     {
@@ -13,21 +13,21 @@
       "curso": "Direito",
       "turma": "2A",
       "aplicacao": "18/11",
-      "respostas": 17,
+      "respostas": 20,
       "matriculados": 31
     },
     {
       "curso": "Direito",
       "turma": "2B",
       "aplicacao": "18/11",
-      "respostas": 22,
+      "respostas": 24,
       "matriculados": 30
     },
     {
       "curso": "Direito",
       "turma": "2D",
       "aplicacao": "18/11",
-      "respostas": 7,
+      "respostas": 8,
       "matriculados": 23
     },
     {
@@ -41,7 +41,7 @@
       "curso": "Direito",
       "turma": "4A",
       "aplicacao": "18/11",
-      "respostas": 17,
+      "respostas": 18,
       "matriculados": 36
     },
     {
@@ -55,7 +55,7 @@
       "curso": "Direito",
       "turma": "6B",
       "aplicacao": "18/11",
-      "respostas": 17,
+      "respostas": 18,
       "matriculados": 32
     },
     {
@@ -76,7 +76,7 @@
       "curso": "Direito",
       "turma": "8B",
       "aplicacao": "18/11",
-      "respostas": 11,
+      "respostas": 12,
       "matriculados": 22
     },
     {
@@ -97,7 +97,7 @@
       "curso": "Direito",
       "turma": "10D",
       "aplicacao": "18/11",
-      "respostas": 5,
+      "respostas": 6,
       "matriculados": 30
     },
     {
@@ -111,7 +111,7 @@
       "curso": "ADS",
       "turma": "2º período",
       "aplicacao": "17/11",
-      "respostas": 15,
+      "respostas": 16,
       "matriculados": 25
     },
     {
@@ -139,7 +139,7 @@
       "curso": "Administração",
       "turma": "8º período",
       "aplicacao": "17/11",
-      "respostas": 4,
+      "respostas": 5,
       "matriculados": 13
     }
   ]
